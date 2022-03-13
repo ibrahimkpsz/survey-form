@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+    
+}
+
+#title {
+    margin: 10px auto;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 50px;
+}
+#description {
+    margin: 10px auto;
+    font-size:18px;
+    font-style: italic;
+    text-align: center
+}
+
+.container {
+    text-align: center;
+    margin: 0 auto;
+    background-color: rgb(55, 107, 185);
+    color: #fff;
+    font-size: 19px;
+    width: 50%;
+    padding-top: 20px;
+    border-radius: 5px;
+    
+    
+}
+
+#name {
+    padding: 0.5em;
+    width: 90%;
+    margin: 10px;
+}
+#email {
+    padding: 0.5em;
+    width: 90%;
+    margin: 10px;
+}
+
+#number {
+    padding: 0.5em;
+    width: 90%;
+    margin: 10px;
+}
+
+
+#dropdown{
+    padding: 0.5em;
+    width: 90%;
+    margin: 10px;
+    
+}
+
+#submit{
+    padding: 0.5em;
+    width: 50%;
+    position: relative;
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-radius: 50px;
+    color: rgb(0, 0, 0);
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+
+
+}
+
+#submit:hover{
+    padding: 0.5em;
+    width: 50%;
+    position: relative;
+    margin: 20px;
+    background-color: rgb(88, 87, 81);
+    cursor: pointer;
+    border-radius: 50px;
+    color: white;
+    
+}
+
+.check-box{
+    margin-left: 30px;
+}
+
+#checkbox {
+    width: 20px;
+    height:auto;
+
+}
+
+#text-area {
+    height: 120px;
+    width: 90%;
+    margin: 30px;
+}
+
+#dropdown-label{
+    margin-bottom:10px;
+}
+#recommend-label {
+    margin-bottom:10px;
+}
+
+#checkbox-p {
+    margin-bottom: 2px;
+}
+
+#checkbox-sub{
+    font-size: 15px;
+}
+
+.textarea{
+    padding:1em;
+    font-size: 15px;
+}
+
+ 
